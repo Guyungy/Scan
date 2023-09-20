@@ -1,8 +1,1 @@
-
-ScanPort.py [-i <0.0.0.0-255.255.255.255>] [-p <80>] [-t <500>]
-
-# 扫描端口
-python ScanPort.py -i 107.174.180.218-107.174.255.218 -t 500
-
-python ScanPort.py -i 107.174.176.218-107.174.180.218 -p 80 -t 200
-
+https://colab.research.google.com/drive/1h6Uu3BHCmms-LlIUCmsVU0zHf62R8etS?usp=sharing
